@@ -1,5 +1,3 @@
-# Ignorar archivos de log
+# ignore all logs
 *.log
-
-# Ignorar contenido de la carpeta modules
-modules/
+/node_modules
